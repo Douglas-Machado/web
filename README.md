@@ -8,7 +8,7 @@ Utilizando a API node para cadastrar usuários e mensagens utilizando react.js
 
 ### Uso
 
-* `npm install` ou `yarn` para adicionar as dependencias
+* `npm install` ou `yarn` para adicionar as dependências
 
 * `yarn dev` para utilizar o projeto
 
